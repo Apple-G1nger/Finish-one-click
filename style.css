@@ -34,7 +34,7 @@ a.btn_04 {
 	transition: 0.5s;
 }
 a.btn_04:hover {
-	color: #fff;
+	color: #00c936;
 	background: red;
 }a.btn_05 {
 	display: block;
@@ -46,7 +46,7 @@ a.btn_04:hover {
 	padding: 1rem 4rem;
 	font-weight: bold;
 	border: 2px solid red;
-	color: #fff;
+	color: #00c936;
 	border-radius: 100vh;
 	transition: 0.5s;
 }
