@@ -17,7 +17,7 @@ a.btn_03 {
 }
 a.btn_03:hover {
 	color: #00c936;
-	background: red;
+	background: #5805ff;
 }
 a.btn_04 {
 	display: block;
@@ -52,5 +52,5 @@ a.btn_04:hover {
 }
 a.btn_05:hover {
 	color: #00c936;
-	background: red;
+	background: #5805ff;
 }
